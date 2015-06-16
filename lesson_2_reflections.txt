@@ -15,3 +15,6 @@ they are visual..!  git ?!
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 puts the changes from both files (additions and deletions) in to the original files and sets the new commit on the master
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+saves time, less user error. puts stuff in the file(!) and can't always get it right
