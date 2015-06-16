@@ -1,3 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 adds a .git file (which is a hidden folder containing all the metadata describing the version history). before that point this is only a folder without any git control appllied 
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+it is intermediatory area to which individual files are added, which will then make up the commit
