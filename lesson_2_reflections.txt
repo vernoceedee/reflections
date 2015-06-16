@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+adds a .git file (which is a hidden folder containing all the metadata describing the version history). before that point this is only a folder without any git control appllied 
+
